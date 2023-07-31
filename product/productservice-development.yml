@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5433/product_db
+    username: product_ms
+    password: 12345
