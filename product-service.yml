@@ -1,2 +1,11 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5433/product_db
+    username: product_ms
+    password: 12345
+
 example:
-  property: Hola y adiós desde el microservicio de productos
+  property: Hola Diego desde el microservicio de productos
