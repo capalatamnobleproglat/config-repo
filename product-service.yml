@@ -8,4 +8,4 @@ spring:
     password: 12345
 
 example:
-  property: Hola Diego desde el microservicio de productos
+  property: Hola desde el microservicio de productos
