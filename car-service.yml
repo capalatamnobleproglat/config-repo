@@ -1,0 +1,11 @@
+server:
+  port: 8082
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5433/car_db
+    username: car_ms
+    password: 12345
+
+example:
+  property: Hola desde el microservicio de cars
