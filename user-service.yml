@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5431/user_db
+    username: user_ms
+    password: 12345
+
+example:
+  property: Hola desde el microservicio de ordenes
